@@ -7,7 +7,7 @@ This section evaluates the corporate consumer base, mapping client engagement fr
 ## 💻 Customer Analytics View
 
 The primary interface delivers an operational audit of active customer volumes, purchasing behaviors, and geographic migration out of active cycles.
-![Customer Analytics](Customer.png)
+![Customer Analytics](../Image/Customer.png)
 
 ### 📈 Core Business Drivers & Operational Balance
 * **Total Consumer Footprint:** The corporate ecosystem maintains **635 Total Active Customers** across all operational trading territories.
