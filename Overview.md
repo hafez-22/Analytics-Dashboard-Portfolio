@@ -10,16 +10,17 @@ The primary landing view acts as the strategic monitor for corporate health, aud
 ![Sales Overview](Overview.png)
 
 ### 📈 Core Business Drivers & Operational Balance
+
 * **Top-Line Volume Scaling:** Annual performance captured **$33.07M in Total Revenue**, reflecting steady market expansion with a clear **+20.15% upward growth** track against the prior year.
-
+  
 * **Profit Realization:** Baseline efficiency preserved high margins, hitting **$22.58M in Gross Profit (+18.94% YoY)**.
-
+  
 * **Logistical Compression:** Operational efficiency improved significantly as Total Cost of Goods Sold dropped sharply to **$10.49M (a decrease of -22.84% YoY)**.
-
+  
 * **Fulfillment Velocity:** Product movement accelerated across all key sectors, securing a strong throughput of **103,658 total units sold (+27.46%)**.
-
+  
 * **Category Dependency:** The overall business engine relies heavily on a single primary anchor, with the **Protein** segment single-handedly commanding **$28M** of sales and moving **34K transactional units**.
-
+  
 * **Structural Distribution:** Inbound revenue remains evenly balanced between **Warehouse distribution channels at 48.69%** and dedicated **Supplement Stores at 43.13%**.
 
 ---
@@ -43,16 +44,14 @@ The drill-through target page automatically updates context filters, deploying a
 ### 📉 Localized Data Breakdown
 * **The Geographic Anomaly:** While global corporate metrics enjoyed double-digit upward growth, drilling into **Canada** isolates a severe regional downturn. Localized performance contracted uniformly, losing **-4.9% in Revenue** (an absolute net reduction of **-$1,385K**), dropping **-5.02% in Gross Profit**, and shrinking the **Average Order Value (AOV) by -$2.67K**.
 
-
 * **Isolating the Variance via Decomposition:**
   * Structural fracturing identifies the province of **Ontario** as the central point of failure, absorbing a massive **-$686K** of the total territory losses.
-
-  * Splitting Ontario down to local economic nodes demonstrates that the revenue bleeding is highly concentrated inside the city of **Toronto**, accounts for a localized loss of **-$325K**.
-
+    
+  * Splitting Ontario down to local economic nodes demonstrates that the revenue bleeding is highly concentrated inside the city of **Toronto**, accounting for a localized loss of **-$325K**.
+  
   * At the deepest operational level, the failure point within Toronto is tied directly to demand drops in two specific categories: **Protein (-$258K)** and **Carbs (-$63K)**.
-
-
+    
 * **Performance Outliers:** Despite the sweeping regional contraction, corporate customer accounts like **Balanced Store** and **Monsteroryx** remained highly resilient, locking in individual revenue streams of **$0.30M** respectively.
 
-### 🎯  Correlation & Analytical Takeaway
+### 🎯 Correlation & Analytical Takeaway
 Connecting the executive baseline with the localized deep-dive uncovers a critical strategic reality: **Macro performance success can easily mask deep regional vulnerabilities.** Globally, the *Protein* category is the business’s primary economic driver, but inside the Canadian market—specifically within Toronto—that exact same category became the primary source of revenue erosion. This proves that a uniform global strategy fails when applied to localized demand drops. By bridging these two views through data modeling and drill-through architecture, the business transforms a standard visual asset into an actionable diagnostic tool—instantly pinpointing the exact city (Toronto) and the exact product catalog (Protein) requiring immediate tactical intervention and inventory realignment.
