@@ -1,1 +1,1 @@
-# Fitness-Industry-Dashboard-Analytics
+![Banner](Home.png)
