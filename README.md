@@ -61,7 +61,7 @@ Focuses on customer segmentation, purchasing behavior, retention patterns, and c
 ---
 
 ### 📦 Product Analytics
-[View Dashboard](Dashboards/Product_Analytics.md)
+[View Dashboard](Dashboards/Product.Analytics.md)
 
 Analyzes product performance, category trends, profitability distribution, and sales contribution across products.
 
