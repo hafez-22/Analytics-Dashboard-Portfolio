@@ -6,7 +6,7 @@ This analysis evaluates multi-year financial performance across Revenue, Profit,
 
 ## 💻 Time Analytics View
 
-![Time Analytics](Time.png)
+![Time Analytics](../Image/Time.png)
 
 ### 📈 Core Business Drivers
 * **Total Revenue:** Reached **$60.59M**, driving a **+33.68% upward growth trend**.
@@ -22,15 +22,15 @@ This analysis evaluates multi-year financial performance across Revenue, Profit,
 ## 🔄 Financial Performance Breakdowns
 
 ### 1️⃣ YTD Revenue Trends
-![Revenue Performance](Revenue.png)
+![Revenue Performance](../Image/Revenue.png)
 * **Monthly Accumulation:** Revenue builds steadily from **$4M in January** to close the fiscal year at **$33M**.
 
 ### 2️⃣ Monthly Profit Realization
-![Profit Realization](Profit.png)
+![Profit Realization](../Image/Profit.png)
 * **Margin Spikes:** Monthly profit hits its highest peak in January at **$5.2M**, experiences a summer drop in June to **$2.0M**, and recovers by October to **$4.2M**.
 
 ### 3️⃣ Cost Optimization Metrics
-![Cost Trends](Cost.png)
+![Cost Trends](../Image/Cost.png)
 * **Expense Minimization:** Monthly expenditures peak in January at **$2.47M**, but hit a highly optimized record low in June at **$0.90M**.
 
 ---
