@@ -13,7 +13,7 @@ The raw transactional system was strictly normalized to eliminate data redundanc
   
 * **Geographic Fragmentation:** Spatial analysis required traversing distinct `Geography` and `Region` boundaries before reaching the core fact records.
 
-### 2️⃣ Production Analytical Star Schema (Dinormalization)
+### 2️⃣ Production Analytical Star Schema (Denormalization)
 To eliminate calculation lag and guarantee instantaneous filter propagation, the architecture collapses the lookup layers into highly optimized dimensional anchors.
 ![Denormalized Star Schema](Denormalization.png)
 * **The Analytical Core:** Built around two primary operational fact engines: `sales-details` (tracking outbound velocity) and `sales-returns` (monitoring pipeline attrition).
