@@ -6,7 +6,7 @@ This analysis evaluates product performance, margin behavior, price categories, 
 
 ## 💻 Product Analytics View
 
-![Product Analytics](Product.png)
+![Product Analytics](../Image/Product.png)
 
 ### 📈 Core Business Drivers
 * **Gross Margin (GM%):** Maintained an exceptionally strong baseline at **68.7%**.
