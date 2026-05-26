@@ -6,7 +6,7 @@ This analysis inspects operational friction and product rejection rates across c
 
 ## 💻 Returns Analytics View
 
-![Returns Analytics](Returns.png)
+![Returns Analytics](../Image/Returns.png)
 
 ### 📈 Core Business Drivers
 * **Returns Amount:** Lost **$6.39M** in leaked revenue, representing an financial impact rate of **8.11%**.
