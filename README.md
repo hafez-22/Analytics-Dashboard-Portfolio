@@ -29,11 +29,17 @@ This project addresses that challenge by building a centralized analytical dashb
 The primary objectives of this analysis were to:
 
 - Monitor overall business performance through interactive KPIs
+
 - Identify revenue and profit drivers
+
 - Analyze customer purchasing and engagement behavior
+
 - Evaluate product contribution and category performance
+
 - Track return patterns and operational inefficiencies
+
 - Understand seasonal and time-based business trends
+
 - Build a scalable and structured analytical model
 
 ---
@@ -96,10 +102,14 @@ Explains the data preparation and modeling process, including relationships, sch
 
 The project followed a structured analytical workflow that included:
 
-1. Data cleaning and transformation using Power Query  
-2. Building a relational data model  
-3. Creating calculated measures and KPIs using DAX  
-4. Designing interactive dashboards for business analysis  
+1. Data cleaning and transformation using Power Query
+   
+2. Building a relational data model
+ 
+3. Creating calculated measures and KPIs using DAX
+
+4. Designing interactive dashboards for business analysis
+  
 5. Extracting insights and translating findings into business recommendations  
 
 ---
@@ -109,15 +119,39 @@ The project followed a structured analytical workflow that included:
 The analysis helped highlight several important business patterns, including:
 
 - Variations in profitability across product categories
+  
 - Differences in customer purchasing behavior
+
 - Seasonal fluctuations in sales performance
+
 - Operational impact of return activity
+
 - High-performing segments contributing most to revenue growth
 
 ---
 
+## Key Insights
+
+- A small number of products contributed disproportionately to total revenue and profitability.
+  
+- Certain customer segments demonstrated significantly higher purchasing activity and retention rates.
+  
+- Seasonal demand patterns had a major impact on sales performance across time periods.
+  
+- High sales volume did not always translate into strong profitability due to margin variation and return activity.
+  
+- Return analysis highlighted operational inefficiencies affecting customer experience and overall business performance.
+  
+---
+
 ## Conclusion
 
-This project demonstrates how business intelligence tools can be leveraged to transform raw operational data into actionable insights.
+The analysis revealed that overall business performance was driven by a small group of high-performing products, customer segments, and peak seasonal periods.
 
-By combining structured data modeling, analytical calculations, and interactive visualizations, the dashboard provides a comprehensive view of business performance and supports more informed strategic decisions within the fitness industry.
+Although revenue achieved strong growth across multiple categories, profitability did not always increase at the same rate due to differences in product margins, operational costs, and return activity.
+
+Customer analytics identified valuable purchasing behaviors and retention opportunities, while time analysis highlighted clear seasonal trends that can support more accurate forecasting and strategic planning.
+
+In addition, return analysis exposed operational inefficiencies that negatively impacted both profitability and customer experience.
+
+Overall, the dashboard provides management with a centralized analytical solution that improves visibility into business performance, enables faster decision-making, and supports more effective data-driven business strategies within the fitness industry.
