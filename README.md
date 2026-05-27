@@ -36,7 +36,6 @@ The analysis focused on answering several critical business questions:
 | Revenue Leakage from Returns | **$6.39M** |
 | Total Return Volume | **1,546 Orders** |
 | High-Loyalty Customer Base | **235 Active Customers** |
-| Top Profit Center | **Southwest Region ($12M Profit)** |
 
 ---
 
@@ -119,8 +118,6 @@ Customer purchasing behavior showed a stable retention pattern among repeat buye
 Revenue performance demonstrated steady long-term growth, reaching approximately **$60.59M** across the analyzed period.
 
 Return analysis uncovered nearly **$6.39M in lost value** linked to damaged and rejected orders, exposing a significant source of operational and profitability pressure.
-
-Regional analysis identified the **Southwest market** as the company’s leading profit and customer acquisition region, while simultaneously recording the highest return activity.
 
 ---
 
