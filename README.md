@@ -159,9 +159,9 @@ Tracks long-term business growth, monthly trends, YTD performance, and seasonal 
 
 
 
-### 5. Return Analytics
+### 5. Returns Analytics
 
-[View Dashboard](Dashboards/Returns_Analytics.md)
+[View Dashboard](Dashboards/Returns.Analytics.md)
 
 
 
