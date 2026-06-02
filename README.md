@@ -26,19 +26,19 @@
 
 ### Data Flow
 
-![Data Flow Diagram](../Image/Data_Flow_Diagram.png)
+![Data Flow Diagram](Data_Flow_Diagram.png)
 
 Raw data from multiple Excel sources was normalized, then denormalized into four analytical tables — Customer, Sales, Product, and Returns — to enable clean Power BI modeling.
 
 ### Normalization Schema
 
-![Normalization — full relational model](../Image/Normalization.png)
+![Normalization — full relational model](Normalization.png)
 
 The original schema consists of 9 related tables: `F-customers`, `product`, `product-subcategory`, `product-history`, `Geography`, `Region`, `sales-headers`, `sales-details`, and `sales-returns`.
 
 ### Denormalization Schema
 
-![Denormalization — simplified model](../Image/Denormalization.png)
+![Denormalization — simplified model](Denormalization.png)
 
 Tables were merged and simplified into a star-schema-ready model to optimize DAX performance and reduce query complexity.
 
@@ -48,7 +48,7 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ### 1. Sales Overview
 
-![Sales Overview dashboard](../Image/Overview.png)
+![Sales Overview dashboard](Overview.png)
 
 - Revenue and GM% tracked over time by quarter
 - Revenue breakdown by Category and Business Type
@@ -59,7 +59,7 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ### 2. Customer Analysis
 
-![Customer Analysis dashboard](../Image/Customers.png)
+![Customer Analysis dashboard](Image/Customer.png)
 
 - 635 total customers — 66 with no orders placed
 - AOV of $20.78K across 3,796 orders
@@ -71,7 +71,7 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ### 3. Product Analysis
 
-![Product Analysis dashboard](../Image/Product.png)
+![Product Analysis dashboard](Image/Product.png)
 
 - GM% of 68.7% across all products
 - Return rate of 8.11% by amount, 40.73% by orders
@@ -82,7 +82,7 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ### 4. Time Analysis
 
-![Time Analysis dashboard](../Image/Time.png)
+![Time Analysis dashboard](Image/Time.png) 
 
 - YTD Revenue of $60.59M (+33.68% vs LY)
 - Monthly cost trends with Revenue, Profit, and Cost overlay
@@ -93,7 +93,7 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ### 5. Returns Analysis
 
-![Returns Analysis dashboard](../Image/Data_Flow_Diagram.png)
+![Returns Analysis dashboard](Image/Returns.png)
 
 - Total returns: $6.39M — 14,422 units across 1,546 orders
 - 363 customers (57.17%) had at least one return
