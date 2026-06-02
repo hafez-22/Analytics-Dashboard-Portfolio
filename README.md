@@ -26,19 +26,19 @@
 
 ### Data Flow
 
-![Data Flow Diagram](Data_Flow_Diagram.png)
+![Data Flow Diagram](Image/Data_Flow_Diagram.png)
 
 Raw data from multiple Excel sources was normalized, then denormalized into four analytical tables — Customer, Sales, Product, and Returns — to enable clean Power BI modeling.
 
 ### Normalization Schema
 
-![Normalization — full relational model](Normalization.png)
+![Normalization — full relational model](Image/Normalization.png)
 
 The original schema consists of 9 related tables: `F-customers`, `product`, `product-subcategory`, `product-history`, `Geography`, `Region`, `sales-headers`, `sales-details`, and `sales-returns`.
 
 ### Denormalization Schema
 
-![Denormalization — simplified model](Denormalization.png)
+![Denormalization — simplified model](Image/Denormalization.png)
 
 Tables were merged and simplified into a star-schema-ready model to optimize DAX performance and reduce query complexity.
 
@@ -48,7 +48,7 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ### 1. Sales Overview
 
-![Sales Overview dashboard](Overview.png)
+![Sales Overview dashboard](Image/Overview.png)
 
 - Revenue and GM% tracked over time by quarter
 - Revenue breakdown by Category and Business Type
@@ -152,10 +152,9 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ## Author
 
-**[Your Name]**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+**[Mohamed Hafez]**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-hafez-89b719265)
 
-*If you found this project useful, consider giving it a star.*
+[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat&logo=powerbi)](https://tinyurl.com/yyf48k5d)
+
