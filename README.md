@@ -4,16 +4,6 @@
 
 > A comprehensive business intelligence project analyzing revenue, profit, costs, returns, and customer behavior across products, regions, and time periods — built to identify trends, optimize strategies, and support data-driven decisions.
 
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data Architecture](#data-architecture)
-- [Dashboard Pages](#dashboard-pages)
-- [Key Insights](#key-insights)
-- [Recommendations](#recommendations)
-- [Tools](#tools)
 
 ---
 
@@ -157,27 +147,6 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 | Data Modeling | Star schema design, table relationships |
 | DAX | KPIs, calculated measures, time intelligence |
 
----
-
-## Project Structure
-
-```
-fitness-sales-analysis/
-│
-├── Fitness_Sales_Dashboard.pbix
-│
-├── Screenshots/
-│   ├── Overview.png
-│   ├── Customer.png
-│   ├── Product.png
-│   ├── Time.png
-│   ├── Returns.png
-│   ├── Normalization.png
-│   ├── Denormalization.png
-│   └── Data_Flow_Diagram.png
-│
-└── README.md
-```
 
 ---
 
