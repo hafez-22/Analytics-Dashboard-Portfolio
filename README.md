@@ -113,8 +113,6 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 **66 inactive customers** represent up to $1.37M in recoverable revenue at current AOV.
 
-**Southwest and Canada** are the top-performing regions by profit — $12M and $10M respectively.
-
 ---
 
 ## Recommendations
@@ -126,8 +124,6 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 **Reduce returns proactively** — improve descriptions and QC for Egg Protein and Whey Protein before January and May.
 
 **Reactivate inactive customers** — target the 66 zero-order accounts with personalized campaigns and first-order incentives.
-
-**Expand in Southwest and Canada** — both regions show strong profit with room to grow through added distribution.
 
 **Improve retention** — introduce loyalty programs to push customers beyond the 4–8 order plateau and increase AOV.
 
