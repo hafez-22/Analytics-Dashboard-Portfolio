@@ -147,11 +147,8 @@ Tables were merged and simplified into a star-schema-ready model to optimize DAX
 
 ---
 
-## Author
+## Links
 
-**[Mohamed Hafez]**
+[Power BI Dashpoard](https://tinyurl.com/yyf48k5d)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-hafez-89b719265)
-
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=flat&logo=powerbi)](https://tinyurl.com/yyf48k5d)
-
+[LinkedIn Post](https://www.linkedin.com/in/mohamed-hafez-89b719265)
