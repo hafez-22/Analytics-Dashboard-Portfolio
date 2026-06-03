@@ -24,17 +24,18 @@
 
 ## Data Architecture
 
+### Normalization Schema
+
+![Normalization — full relational model](Image/Normalization.png)
+
+The original schema consists of 9 related tables: `F-customers`, `product`, `product-subcategory`, `product-history`, `Geography`, `Region`, `sales-headers`, `sales-details`, and `sales-returns`.
+
 ### Data Flow
 
 ![Data Flow Diagram](Image/Data_Flow_Diagram.png)
 
 Raw data from multiple Excel sources was normalized, then denormalized into four analytical tables — Customer, Sales, Product, and Returns — to enable clean Power BI modeling.
 
-### Normalization Schema
-
-![Normalization — full relational model](Image/Normalization.png)
-
-The original schema consists of 9 related tables: `F-customers`, `product`, `product-subcategory`, `product-history`, `Geography`, `Region`, `sales-headers`, `sales-details`, and `sales-returns`.
 
 ### Denormalization Schema
 
