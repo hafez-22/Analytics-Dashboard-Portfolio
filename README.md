@@ -1,6 +1,6 @@
 ![Banner](Image/Home.png)
 
-# Fitness Sales Analysis — Power BI Dashboard
+# Athlet Industry Sales Analysis — Power BI Dashboard
 
 > A comprehensive business intelligence project analyzing revenue, profit, costs, returns, and customer behavior across products, regions, and time periods — built to identify trends, optimize strategies, and support data-driven decisions.
 
